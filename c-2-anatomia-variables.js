@@ -3,7 +3,7 @@
 // Una variable es un contenedor que almacena datos. Las variables pueden ser nombradas o etiquetadas 
 // para identificar lo que tienen dentro.
 
-// "let" es una palabra clave que se utiliza al inicio de la declaración de una variable.
+// "let" es una PALABRA CLAVE que se utiliza al inicio de la declaración de una variable.
 
 // ***COSAS A TOMAR EN CUENTA PARA LA CREACIÓN DE UNA VARIABLE*** //
 // 1. Utilizar nombres descriptivos, aunque sean largos, pero que se puedan entender.
